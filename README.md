@@ -1,2 +1,8 @@
 # OpenGL-rotating-planet
-Create a rotating planet in OpenGL
+This program is to create a rotating planet in OpenGL.  
+
+
+Instruction for the installation  
+Step1: chmod +x run  
+Step2: ./run rotating_planet  
+Step3: vglrun ./rotating_planet  
